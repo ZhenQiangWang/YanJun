@@ -17,5 +17,6 @@ YanJun MES
 
 ### 参考目前开源流程引擎，flowable等，好像都无法完美实现，后续可能自己写一套流程引擎，用于支持MES流转
 ### [前端flow设计参考](https://github.com/BiaoChengLiu/easy-flow)
+### [表单构建参考](https://github.com/JakHuang/form-generator)
 啦啦啦啦啦～～～
 
